@@ -1,4 +1,4 @@
 # html-landing-page-updated
 
 ## Basic website landing page in HTML & CSS
-re-done from scratch as I was unsatisfied with previous one.
+re-done from scratch as I was unsatisfied with previous one, and wanted to brush up on CSS.
